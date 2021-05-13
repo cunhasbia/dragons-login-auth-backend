@@ -9,7 +9,7 @@
   ![BCrypt](https://img.shields.io/badge/-BCrypt-black?style=flat-square&logo=bcrypt)
 </div>
 
-API developed for login authentication in [Dragons App](https://github.com/cunhasbia/dragons-frontend).
+API developed with Nodejs for CRUD of users and login authentication in [Dragons App](https://github.com/cunhasbia/dragons-frontend). 
 
 Please, go to the [front end](https://github.com/cunhasbia/dragons-frontend) repository, follow the steps and run both projects together.
 
